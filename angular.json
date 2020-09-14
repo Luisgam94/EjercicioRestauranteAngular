@@ -121,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "guia-restaurantes"
+    }
+  },
+  "defaultProject": "guia-restaurantes",
+  "cli": {
+    "analytics": "c9c490dd-0bc0-4bdb-bcca-a2124ef583fd"
+  }
 }
